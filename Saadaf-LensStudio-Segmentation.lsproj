@@ -1,0 +1,4154 @@
+{
+    "lens_id": "",
+    "document_id": "KasVZYiPwZXp0kafaqzD",
+    "original_document_id": "z-R_yMKhpLrM6dvGR-ct",
+    "version": "29",
+    "lastChanged": "1645023772734",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "api_level": "public",
+    "public_api_user_data_access": "unrestricted",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "13",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "13",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Behavior-headphones"
+                    ],
+                    [
+                        "Default Textures"
+                    ],
+                    [
+                        "Default Textures",
+                        "Base"
+                    ],
+                    [
+                        "Default Textures",
+                        "MaterialParams"
+                    ],
+                    [
+                        "Default Textures",
+                        "Normal"
+                    ],
+                    [
+                        "Default Textures",
+                        "Render Target"
+                    ],
+                    [
+                        "Default Textures",
+                        "echopark"
+                    ],
+                    [
+                        "Default Textures",
+                        "empty"
+                    ],
+                    [
+                        "Default Textures",
+                        "white"
+                    ],
+                    [
+                        "Example Textures [REMOVE_ME]"
+                    ],
+                    [
+                        "Example Textures [REMOVE_ME]",
+                        "heart"
+                    ],
+                    [
+                        "Example Textures [REMOVE_ME]",
+                        "old_paper_post_effect"
+                    ],
+                    [
+                        "Example Textures [REMOVE_ME]",
+                        "space_background"
+                    ],
+                    [
+                        "Materials"
+                    ],
+                    [
+                        "Materials",
+                        "BackgroundMat"
+                    ],
+                    [
+                        "Materials",
+                        "FillMat"
+                    ],
+                    [
+                        "Materials",
+                        "TileMat"
+                    ],
+                    [
+                        "Scripts"
+                    ],
+                    [
+                        "Scripts",
+                        "SegmentationController"
+                    ],
+                    [
+                        "Segmentation Texture [EDIT_ME]"
+                    ],
+                    [
+                        "blueheadphones"
+                    ],
+                    [
+                        "hyperx"
+                    ],
+                    [
+                        "hyperx",
+                        "Materials"
+                    ],
+                    [
+                        "hyperx",
+                        "Materials",
+                        "wire_088144225"
+                    ],
+                    [
+                        "hyperx",
+                        "Materials",
+                        "wire_177028149"
+                    ],
+                    [
+                        "hyperx",
+                        "Meshes"
+                    ],
+                    [
+                        "hyperx",
+                        "Meshes",
+                        "Arc001"
+                    ],
+                    [
+                        "hyperx",
+                        "Meshes",
+                        "Arc002"
+                    ],
+                    [
+                        "hyperx",
+                        "Meshes",
+                        "Arc003"
+                    ],
+                    [
+                        "hyperx",
+                        "Meshes",
+                        "Box001"
+                    ],
+                    [
+                        "hyperx",
+                        "Meshes",
+                        "Box002"
+                    ],
+                    [
+                        "hyperx",
+                        "Meshes",
+                        "Box003"
+                    ],
+                    [
+                        "hyperx",
+                        "Meshes",
+                        "Box004"
+                    ],
+                    [
+                        "hyperx",
+                        "Meshes",
+                        "Cylinder001"
+                    ],
+                    [
+                        "hyperx",
+                        "Meshes",
+                        "Cylinder004"
+                    ],
+                    [
+                        "hyperx",
+                        "Meshes",
+                        "Cylinder005"
+                    ],
+                    [
+                        "hyperx",
+                        "Meshes",
+                        "Cylinder006"
+                    ],
+                    [
+                        "hyperx",
+                        "Meshes",
+                        "Cylinder007"
+                    ],
+                    [
+                        "hyperx",
+                        "Meshes",
+                        "Cylinder008"
+                    ],
+                    [
+                        "hyperx",
+                        "Meshes",
+                        "Object001"
+                    ],
+                    [
+                        "hyperx",
+                        "Meshes",
+                        "cover"
+                    ],
+                    [
+                        "hyperx",
+                        "Meshes",
+                        "cover001"
+                    ],
+                    [
+                        "negative-social-environment"
+                    ],
+                    [
+                        "positive-social-environment"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1517446348227994:84813",
+                    "1534788990696967:152078",
+                    "1535646970796949:39027",
+                    "1536701811084472:40910",
+                    "1536862674133465:250556",
+                    "1538416820229714:10393",
+                    "1553532199827453:37377",
+                    "1644692654859043:79370"
+                ]
+            ],
+            "selectionSetList": ""
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "99f9a381c242ecdea9ac64d1cb856022",
+            "icon_path": "icon.png",
+            "hints": [
+                ""
+            ],
+            "lens": "Segmentation",
+            "applicability": "3",
+            "lens_descriptors": "",
+            "Spectacles2021UseAllowed": "false"
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 2.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Hand Open Palm.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1535646852378068:26367",
+                    "1535646895691475:34049",
+                    "1535647365001278:49935",
+                    "1538416820230029:10399",
+                    "1644692668282131:89115",
+                    "1644693072011133:214922"
+                ]
+            ]
+        },
+        "ObjectTracking3DUIComponent": {
+            "foldedOwnerSceneObjects": ""
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "1610745629794001:56851"
+        },
+        "Script::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "VFX::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1534543033794497:2027",
+                    "name": "Orthographic Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "22",
+                    "uid": "1534543284768020:20801",
+                    "name": "\/Resources\/Resource22.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "30",
+                    "uid": "1534548413451520:38273",
+                    "name": "\/Resources\/Resource30.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "76",
+                    "uid": "1536692380004191:12977",
+                    "name": "\/Resources\/Resource76.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "81",
+                    "uid": "1536693201317919:71139",
+                    "name": "\/Resources\/Resource81.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "82",
+                    "uid": "1536693201320484:71151",
+                    "name": "\/Resources\/Resource82.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "83",
+                    "uid": "1536693201323863:71163",
+                    "name": "\/Resources\/Resource83.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "93",
+                    "uid": "1536694566851597:18126",
+                    "name": "\/Resources\/Resource93.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "132",
+                    "uid": "1536866643977081:319832",
+                    "name": "\/Resources\/Resource132.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "161",
+                    "uid": "1564444797948882:5329",
+                    "name": "Files\/File20.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "162",
+                    "uid": "1571785356605059:504223",
+                    "name": "Portrait Background Segmentation",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "163",
+                    "uid": "1588129293824991:745028",
+                    "name": "Files\/File30.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "164",
+                    "uid": "1588129293839369:745035",
+                    "name": "Files\/File32.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "165",
+                    "uid": "1610745629794001:56851",
+                    "name": "Files\/File38",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "166",
+                    "uid": "1610746417633087:154258",
+                    "name": "Files\/File41",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "167",
+                    "uid": "1610747696110523:313159",
+                    "name": "Files\/File43",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "168",
+                    "uid": "1610747944404420:344587",
+                    "name": "Files\/File45",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "169",
+                    "uid": "8675309:9035768",
+                    "name": "Physics Root World Settings Asset",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "170",
+                    "uid": "1644677717022121:1617700",
+                    "name": "Files\/File55.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "171",
+                    "uid": "1644678151699098:1746805",
+                    "name": "Files\/File59.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "172",
+                    "uid": "1644678737895487:1805808",
+                    "name": "Files\/File60.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "389",
+                    "uid": "1644692652683130:79038",
+                    "name": "Files\/File129.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "390",
+                    "uid": "1644692652821121:79057",
+                    "name": "Files\/File131.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "391",
+                    "uid": "1644692652967133:79076",
+                    "name": "Files\/File133.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "392",
+                    "uid": "1644692653117048:79095",
+                    "name": "Files\/File135.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "393",
+                    "uid": "1644692653255446:79114",
+                    "name": "Files\/File137.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "394",
+                    "uid": "1644692653414250:79133",
+                    "name": "Files\/File139.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "395",
+                    "uid": "1644692653568943:79152",
+                    "name": "Files\/File141.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "396",
+                    "uid": "1644692653751733:79171",
+                    "name": "Files\/File143.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "397",
+                    "uid": "1644692653863102:79190",
+                    "name": "Files\/File145.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "398",
+                    "uid": "1644692653948831:79209",
+                    "name": "Files\/File147.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "399",
+                    "uid": "1644692654037549:79228",
+                    "name": "Files\/File149.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "400",
+                    "uid": "1644692654169731:79247",
+                    "name": "Files\/File151.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "401",
+                    "uid": "1644692654315935:79266",
+                    "name": "Files\/File153.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "402",
+                    "uid": "1644692654409966:79285",
+                    "name": "Files\/File155.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "403",
+                    "uid": "1644692654510132:79304",
+                    "name": "Files\/File157.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "404",
+                    "uid": "1644692654592489:79323",
+                    "name": "Files\/File159.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "405",
+                    "uid": "1644692654648964:79340",
+                    "name": "Files\/File161",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "406",
+                    "uid": "1644692654776804:79357",
+                    "name": "Files\/File163",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "407",
+                    "uid": "1644867495133251:336819",
+                    "name": "Files\/File165",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": [
+                        {
+                            "k": "1553532199828098:37383",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1553532199852613:37646",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1553532228676220:51624",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1644867442598367:325735",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        }
+                    ],
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1534543033789355:1942",
+                "4": "1534543296305691:21549",
+                "5": "1534788990696967:152078",
+                "6": "1535646970796949:39027",
+                "7": "1536701119471735:10008",
+                "8": "1536701119471971:10011",
+                "9": "1536701811084472:40910",
+                "10": "1538416820229714:10393",
+                "11": "1538416820229899:10396",
+                "12": "1553532199827453:37377",
+                "13": "1553532199852441:37643",
+                "14": "1553532228652184:51235",
+                "15": "1644678151761311:1746817",
+                "16": "1644692654859043:79370",
+                "17": "1644692654868565:79372",
+                "18": "1644692654871081:79386",
+                "19": "1644692654879130:79400",
+                "20": "1644692654896733:79414",
+                "21": "1644692654927279:79432",
+                "22": "1644692654932712:79446",
+                "23": "1644692654945004:79460",
+                "24": "1644692654951204:79474",
+                "25": "1644692654953820:79488",
+                "26": "1644692654957752:79502",
+                "27": "1644692654961809:79516",
+                "28": "1644692654969662:79534",
+                "29": "1644692654977508:79548",
+                "30": "1644692654987375:79562",
+                "31": "1644692654990515:79576",
+                "32": "1644692654993917:79590",
+                "33": "1644692668282131:89115",
+                "34": "1644692668499072:89143",
+                "35": "1644867442496003:325450",
+                "36": "1644867442537335:325584",
+                "37": "1644867442597704:325734"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "6",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                },
+                {
+                    "layerId": "4",
+                    "layerName": "Masked",
+                    "layerMask": "4",
+                    "colorCode": "0"
+                },
+                {
+                    "layerId": "5",
+                    "layerName": "Orthographic Masked",
+                    "layerMask": "2",
+                    "colorCode": "1"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "3",
+                    "v": "Files\/File3.js"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.png"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.pvr"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.png"
+                },
+                {
+                    "k": "8",
+                    "v": "Files\/File8.png"
+                },
+                {
+                    "k": "9",
+                    "v": "Files\/File9.png"
+                },
+                {
+                    "k": "10",
+                    "v": "Files\/File10.pvr"
+                },
+                {
+                    "k": "11",
+                    "v": "Files\/File11.png"
+                },
+                {
+                    "k": "16",
+                    "v": "Files\/File16.lsmat"
+                },
+                {
+                    "k": "17",
+                    "v": "Files\/File17.lsmat"
+                },
+                {
+                    "k": "18",
+                    "v": "Files\/File18.lsmat"
+                },
+                {
+                    "k": "19",
+                    "v": "Files\/File19.lsmat"
+                },
+                {
+                    "k": "20",
+                    "v": "Files\/File20.png"
+                },
+                {
+                    "k": "21",
+                    "v": "Files\/File21.png"
+                },
+                {
+                    "k": "22",
+                    "v": "Files\/File22.lsmat"
+                },
+                {
+                    "k": "23",
+                    "v": "Files\/File23.lsmat"
+                },
+                {
+                    "k": "24",
+                    "v": "Files\/File24.lsmat"
+                },
+                {
+                    "k": "25",
+                    "v": "Files\/File25.lsmat"
+                },
+                {
+                    "k": "30",
+                    "v": "Files\/File30.jpeg"
+                },
+                {
+                    "k": "31",
+                    "v": "Files\/File31.jpeg"
+                },
+                {
+                    "k": "32",
+                    "v": "Files\/File32.jpeg"
+                },
+                {
+                    "k": "33",
+                    "v": "Files\/File33.jpeg"
+                },
+                {
+                    "k": "34",
+                    "v": "Files\/File34.hdr"
+                },
+                {
+                    "k": "38",
+                    "v": "Files\/File38"
+                },
+                {
+                    "k": "39",
+                    "v": "Files\/File39.lsmat"
+                },
+                {
+                    "k": "41",
+                    "v": "Files\/File41"
+                },
+                {
+                    "k": "42",
+                    "v": "Files\/File42.lsmat"
+                },
+                {
+                    "k": "43",
+                    "v": "Files\/File43"
+                },
+                {
+                    "k": "44",
+                    "v": "Files\/File44.lsmat"
+                },
+                {
+                    "k": "45",
+                    "v": "Files\/File45"
+                },
+                {
+                    "k": "46",
+                    "v": "Files\/File46.lsmat"
+                },
+                {
+                    "k": "47",
+                    "v": "Files\/File47.pvr"
+                },
+                {
+                    "k": "48",
+                    "v": "Files\/File48.pvr"
+                },
+                {
+                    "k": "49",
+                    "v": "Files\/File49.png"
+                },
+                {
+                    "k": "50",
+                    "v": "Files\/File50.png"
+                },
+                {
+                    "k": "51",
+                    "v": "Files\/File51.png"
+                },
+                {
+                    "k": "52",
+                    "v": "Files\/File52.png"
+                },
+                {
+                    "k": "53",
+                    "v": "Files\/File53.png"
+                },
+                {
+                    "k": "54",
+                    "v": "Files\/File54.png"
+                },
+                {
+                    "k": "55",
+                    "v": "Files\/File55.jpeg"
+                },
+                {
+                    "k": "56",
+                    "v": "Files\/File56.jpeg"
+                },
+                {
+                    "k": "57",
+                    "v": "Files\/File57.jpeg"
+                },
+                {
+                    "k": "58",
+                    "v": "Files\/File58.jpeg"
+                },
+                {
+                    "k": "59",
+                    "v": "Files\/File59.js"
+                },
+                {
+                    "k": "60",
+                    "v": "Files\/File60.jpeg"
+                },
+                {
+                    "k": "61",
+                    "v": "Files\/File61.jpeg"
+                },
+                {
+                    "k": "62",
+                    "v": "Files\/File62.jpeg"
+                },
+                {
+                    "k": "63",
+                    "v": "Files\/File63.jpeg"
+                },
+                {
+                    "k": "129",
+                    "v": "Files\/File129.mesh"
+                },
+                {
+                    "k": "130",
+                    "v": "Files\/File130.mesh"
+                },
+                {
+                    "k": "131",
+                    "v": "Files\/File131.mesh"
+                },
+                {
+                    "k": "132",
+                    "v": "Files\/File132.mesh"
+                },
+                {
+                    "k": "133",
+                    "v": "Files\/File133.mesh"
+                },
+                {
+                    "k": "134",
+                    "v": "Files\/File134.mesh"
+                },
+                {
+                    "k": "135",
+                    "v": "Files\/File135.mesh"
+                },
+                {
+                    "k": "136",
+                    "v": "Files\/File136.mesh"
+                },
+                {
+                    "k": "137",
+                    "v": "Files\/File137.mesh"
+                },
+                {
+                    "k": "138",
+                    "v": "Files\/File138.mesh"
+                },
+                {
+                    "k": "139",
+                    "v": "Files\/File139.mesh"
+                },
+                {
+                    "k": "140",
+                    "v": "Files\/File140.mesh"
+                },
+                {
+                    "k": "141",
+                    "v": "Files\/File141.mesh"
+                },
+                {
+                    "k": "142",
+                    "v": "Files\/File142.mesh"
+                },
+                {
+                    "k": "143",
+                    "v": "Files\/File143.mesh"
+                },
+                {
+                    "k": "144",
+                    "v": "Files\/File144.mesh"
+                },
+                {
+                    "k": "145",
+                    "v": "Files\/File145.mesh"
+                },
+                {
+                    "k": "146",
+                    "v": "Files\/File146.mesh"
+                },
+                {
+                    "k": "147",
+                    "v": "Files\/File147.mesh"
+                },
+                {
+                    "k": "148",
+                    "v": "Files\/File148.mesh"
+                },
+                {
+                    "k": "149",
+                    "v": "Files\/File149.mesh"
+                },
+                {
+                    "k": "150",
+                    "v": "Files\/File150.mesh"
+                },
+                {
+                    "k": "151",
+                    "v": "Files\/File151.mesh"
+                },
+                {
+                    "k": "152",
+                    "v": "Files\/File152.mesh"
+                },
+                {
+                    "k": "153",
+                    "v": "Files\/File153.mesh"
+                },
+                {
+                    "k": "154",
+                    "v": "Files\/File154.mesh"
+                },
+                {
+                    "k": "155",
+                    "v": "Files\/File155.mesh"
+                },
+                {
+                    "k": "156",
+                    "v": "Files\/File156.mesh"
+                },
+                {
+                    "k": "157",
+                    "v": "Files\/File157.mesh"
+                },
+                {
+                    "k": "158",
+                    "v": "Files\/File158.mesh"
+                },
+                {
+                    "k": "159",
+                    "v": "Files\/File159.mesh"
+                },
+                {
+                    "k": "160",
+                    "v": "Files\/File160.mesh"
+                },
+                {
+                    "k": "161",
+                    "v": "Files\/File161"
+                },
+                {
+                    "k": "162",
+                    "v": "Files\/File162.lsmat"
+                },
+                {
+                    "k": "163",
+                    "v": "Files\/File163"
+                },
+                {
+                    "k": "164",
+                    "v": "Files\/File164.lsmat"
+                },
+                {
+                    "k": "165",
+                    "v": "Files\/File165"
+                },
+                {
+                    "k": "166",
+                    "v": "Files\/File166.gif"
+                }
+            ]
+        },
+        "RemoteApi::ModelManager": {
+            "api_specs": ""
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "1",
+                        "v": "Example Textures [REMOVE_ME]"
+                    },
+                    {
+                        "k": "2",
+                        "v": "Example Textures [REMOVE_ME]\/space_background.pvr"
+                    },
+                    {
+                        "k": "4",
+                        "v": "Example Textures [REMOVE_ME]\/heart.pvr"
+                    },
+                    {
+                        "k": "5",
+                        "v": "Materials"
+                    },
+                    {
+                        "k": "10",
+                        "v": "Default Textures"
+                    },
+                    {
+                        "k": "13",
+                        "v": "Default Textures\/empty.png"
+                    },
+                    {
+                        "k": "14",
+                        "v": "Default Textures\/Base.png"
+                    },
+                    {
+                        "k": "15",
+                        "v": "Default Textures\/MaterialParams.png"
+                    },
+                    {
+                        "k": "16",
+                        "v": "Default Textures\/Normal.png"
+                    },
+                    {
+                        "k": "17",
+                        "v": "Default Textures\/white.png"
+                    },
+                    {
+                        "k": "18",
+                        "v": "Scripts"
+                    },
+                    {
+                        "k": "19",
+                        "v": "Scripts\/SegmentationController.js"
+                    },
+                    {
+                        "k": "21",
+                        "v": "Example Textures [REMOVE_ME]\/old_paper_post_effect.png"
+                    },
+                    {
+                        "k": "645",
+                        "v": "Default Textures\/echopark.hdr"
+                    },
+                    {
+                        "k": "968",
+                        "v": "Materials\/TileMat.lsmat"
+                    },
+                    {
+                        "k": "969",
+                        "v": "Materials\/TileScrollingMat.lsmat"
+                    },
+                    {
+                        "k": "970",
+                        "v": "Materials\/FillMat.lsmat"
+                    },
+                    {
+                        "k": "971",
+                        "v": "Materials\/BackgroundMat.lsmat"
+                    },
+                    {
+                        "k": "1015",
+                        "v": "negative-social-environment.jpeg"
+                    },
+                    {
+                        "k": "1017",
+                        "v": "positive-social-environment.jpeg"
+                    },
+                    {
+                        "k": "1059",
+                        "v": "hyperx"
+                    },
+                    {
+                        "k": "1060",
+                        "v": "hyperx\/Meshes"
+                    },
+                    {
+                        "k": "1061",
+                        "v": "hyperx\/Meshes\/Cylinder001.mesh"
+                    },
+                    {
+                        "k": "1062",
+                        "v": "hyperx\/Meshes\/cover.mesh"
+                    },
+                    {
+                        "k": "1063",
+                        "v": "hyperx\/Meshes\/Box001.mesh"
+                    },
+                    {
+                        "k": "1064",
+                        "v": "hyperx\/Meshes\/Box002.mesh"
+                    },
+                    {
+                        "k": "1065",
+                        "v": "hyperx\/Meshes\/Arc001.mesh"
+                    },
+                    {
+                        "k": "1066",
+                        "v": "hyperx\/Meshes\/Arc002.mesh"
+                    },
+                    {
+                        "k": "1067",
+                        "v": "hyperx\/Meshes\/Object001.mesh"
+                    },
+                    {
+                        "k": "1068",
+                        "v": "hyperx\/Meshes\/Arc003.mesh"
+                    },
+                    {
+                        "k": "1069",
+                        "v": "hyperx\/Meshes\/Box003.mesh"
+                    },
+                    {
+                        "k": "1070",
+                        "v": "hyperx\/Meshes\/Box004.mesh"
+                    },
+                    {
+                        "k": "1071",
+                        "v": "hyperx\/Meshes\/Cylinder004.mesh"
+                    },
+                    {
+                        "k": "1072",
+                        "v": "hyperx\/Meshes\/cover001.mesh"
+                    },
+                    {
+                        "k": "1073",
+                        "v": "hyperx\/Meshes\/Cylinder005.mesh"
+                    },
+                    {
+                        "k": "1074",
+                        "v": "hyperx\/Meshes\/Cylinder006.mesh"
+                    },
+                    {
+                        "k": "1075",
+                        "v": "hyperx\/Meshes\/Cylinder007.mesh"
+                    },
+                    {
+                        "k": "1076",
+                        "v": "hyperx\/Meshes\/Cylinder008.mesh"
+                    },
+                    {
+                        "k": "1077",
+                        "v": "hyperx\/Materials"
+                    },
+                    {
+                        "k": "1078",
+                        "v": "hyperx\/Materials\/wire_088144225.lsmat"
+                    },
+                    {
+                        "k": "1079",
+                        "v": "hyperx\/Materials\/wire_177028149.lsmat"
+                    },
+                    {
+                        "k": "1080",
+                        "v": "Behavior-headphones.js"
+                    },
+                    {
+                        "k": "26156",
+                        "v": "blueheadphones.gif"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "2",
+                        "v": "e021d351dfb8ee91977d74e7e4f06083"
+                    },
+                    {
+                        "k": "3",
+                        "v": "8deedada4978953cc405f26856dd0594"
+                    },
+                    {
+                        "k": "4",
+                        "v": "b9d0f28c720d23d0ab030bfbe064748b"
+                    },
+                    {
+                        "k": "6",
+                        "v": "2972ddaaa05f4a76fe5a5219a8b253dc"
+                    },
+                    {
+                        "k": "7",
+                        "v": "96b2ec14414364938c994b49d278a2d5"
+                    },
+                    {
+                        "k": "8",
+                        "v": "620f18006d90a70df9a7394e98e8ce49"
+                    },
+                    {
+                        "k": "9",
+                        "v": "ddd8aaa94ab36415cc26a25ba6e70872"
+                    },
+                    {
+                        "k": "11",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "12",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "13",
+                        "v": "33a67d34b6807e8d7cbd43a3d1930f5e"
+                    },
+                    {
+                        "k": "14",
+                        "v": "cb607d7b25a160872c49fb4d2635cc33"
+                    },
+                    {
+                        "k": "15",
+                        "v": "af2715bddfbca2d4e72f470d285c5010"
+                    },
+                    {
+                        "k": "16",
+                        "v": "8a0173d0b987e1abfebd4ef9e3304c0b"
+                    },
+                    {
+                        "k": "17",
+                        "v": "960a06e2a80d46091b8215f96b633951"
+                    },
+                    {
+                        "k": "19",
+                        "v": "96d4135410b676c791b6880e2bb98e8d"
+                    },
+                    {
+                        "k": "21",
+                        "v": "3acd9c68c33b25e370568c8e3ca488c7"
+                    },
+                    {
+                        "k": "645",
+                        "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
+                    },
+                    {
+                        "k": "968",
+                        "v": "f623f100e1903b27df7cc827ced2c592"
+                    },
+                    {
+                        "k": "969",
+                        "v": "a2d22a43e8d8f8347ffe63fa19ceebd6"
+                    },
+                    {
+                        "k": "970",
+                        "v": "3bca1f934893422956b2a789b8e06bdc"
+                    },
+                    {
+                        "k": "971",
+                        "v": "bd45d7a04ec7f757d19c6b5ff124bfa9"
+                    },
+                    {
+                        "k": "1015",
+                        "v": "a41f0dcf14f071f197922abca324b488"
+                    },
+                    {
+                        "k": "1016",
+                        "v": "324d936bf1b61fe7a9ad8efc0bd63807"
+                    },
+                    {
+                        "k": "1017",
+                        "v": "e4921d6a3586efad5884126e42b7498a"
+                    },
+                    {
+                        "k": "1020",
+                        "v": "b8db308932468018a2835c64409ebf61"
+                    },
+                    {
+                        "k": "1021",
+                        "v": "e087a11af58d7178d50a9bde84b9e0b6"
+                    },
+                    {
+                        "k": "1022",
+                        "v": "3dbf6a08f4a511581e06f6f7b96f40d2"
+                    },
+                    {
+                        "k": "1023",
+                        "v": "926dc77fbb27b22182792c01f9da656d"
+                    },
+                    {
+                        "k": "1024",
+                        "v": "ead318411dbe3b64025cdebf0b5a0ea7"
+                    },
+                    {
+                        "k": "1025",
+                        "v": "254bd1e4356a671a872b2e7b5df25514"
+                    },
+                    {
+                        "k": "1026",
+                        "v": "f4b8208cee76f223982a6c9d17235ee9"
+                    },
+                    {
+                        "k": "1027",
+                        "v": "e0a84dab96cabfc2a883ec6f6d13fbe8"
+                    },
+                    {
+                        "k": "1028",
+                        "v": "b1ebde24258a1bc45a00b5f3b8da906f"
+                    },
+                    {
+                        "k": "1031",
+                        "v": "00ac7691d9edddf9e531cba0549bd4b2"
+                    },
+                    {
+                        "k": "1032",
+                        "v": "87144288291db2ce73fc6d38a856061d"
+                    },
+                    {
+                        "k": "1033",
+                        "v": "f566d629503bcc610864871cc8948b0f"
+                    },
+                    {
+                        "k": "1035",
+                        "v": "5ae50925af10c139172b725e065b9fb0"
+                    },
+                    {
+                        "k": "1036",
+                        "v": "3dc6694ab0fb2536c79bac4e56fba877"
+                    },
+                    {
+                        "k": "1037",
+                        "v": "875bf7e199d9687a15cc71ebb26981ad"
+                    },
+                    {
+                        "k": "1038",
+                        "v": "37b36d751f0a1e54fb88f60512b22f1a"
+                    },
+                    {
+                        "k": "1039",
+                        "v": "b9ce4728b62be9e29778de2160db745d"
+                    },
+                    {
+                        "k": "1040",
+                        "v": "0a4ade2d10ef958c4d2a2b9e2d825e56"
+                    },
+                    {
+                        "k": "1041",
+                        "v": "9bb0f68a99fd3cc9e030b40ee7df8511"
+                    },
+                    {
+                        "k": "1042",
+                        "v": "8f32330cccce041d1d61e2c48eb584b9"
+                    },
+                    {
+                        "k": "1043",
+                        "v": "0f09a61a4b39cae43121930a5db7652e"
+                    },
+                    {
+                        "k": "1044",
+                        "v": "c072a0a43bcc75191a46f0fc1b63110c"
+                    },
+                    {
+                        "k": "1045",
+                        "v": "87c9bcab7aef8fe63d6a21a565cb146e"
+                    },
+                    {
+                        "k": "1046",
+                        "v": "6dab03e7cfd280815843078baae37861"
+                    },
+                    {
+                        "k": "1047",
+                        "v": "319e484a37ff6d1ec64c624e68e6aa58"
+                    },
+                    {
+                        "k": "1048",
+                        "v": "a4f228c4f39e8c51b0d3bb77a1253f60"
+                    },
+                    {
+                        "k": "1049",
+                        "v": "3fc2ea88d89ad8e4506518bb37300332"
+                    },
+                    {
+                        "k": "1050",
+                        "v": "1dc357137d1e2c1f5f7c803505ebb795"
+                    },
+                    {
+                        "k": "1051",
+                        "v": "8500589b0b672050362653613754f482"
+                    },
+                    {
+                        "k": "1052",
+                        "v": "cb574beac63ffe8117b6a80d9ff50174"
+                    },
+                    {
+                        "k": "1053",
+                        "v": "6f24b44fd5fc6f6abd3c049ca79cef5e"
+                    },
+                    {
+                        "k": "1054",
+                        "v": "b8ebe6aac7a7c8e23f2b23725da11434"
+                    },
+                    {
+                        "k": "1055",
+                        "v": "895eb28a567e697a645fb36af3d97fd6"
+                    },
+                    {
+                        "k": "1056",
+                        "v": "2022fd3839f2ef789343f67c77c68abf"
+                    },
+                    {
+                        "k": "1057",
+                        "v": "5bad0ef7b5734d9bbf5d89d64d79a633"
+                    },
+                    {
+                        "k": "1058",
+                        "v": "324d936bf1b61fe7a9ad8efc0bd63807"
+                    },
+                    {
+                        "k": "1061",
+                        "v": "895eb28a567e697a645fb36af3d97fd6"
+                    },
+                    {
+                        "k": "1062",
+                        "v": "a4f228c4f39e8c51b0d3bb77a1253f60"
+                    },
+                    {
+                        "k": "1063",
+                        "v": "6f24b44fd5fc6f6abd3c049ca79cef5e"
+                    },
+                    {
+                        "k": "1064",
+                        "v": "6dab03e7cfd280815843078baae37861"
+                    },
+                    {
+                        "k": "1065",
+                        "v": "3fc2ea88d89ad8e4506518bb37300332"
+                    },
+                    {
+                        "k": "1066",
+                        "v": "1dc357137d1e2c1f5f7c803505ebb795"
+                    },
+                    {
+                        "k": "1067",
+                        "v": "8500589b0b672050362653613754f482"
+                    },
+                    {
+                        "k": "1068",
+                        "v": "cb574beac63ffe8117b6a80d9ff50174"
+                    },
+                    {
+                        "k": "1069",
+                        "v": "319e484a37ff6d1ec64c624e68e6aa58"
+                    },
+                    {
+                        "k": "1070",
+                        "v": "0f09a61a4b39cae43121930a5db7652e"
+                    },
+                    {
+                        "k": "1071",
+                        "v": "c072a0a43bcc75191a46f0fc1b63110c"
+                    },
+                    {
+                        "k": "1072",
+                        "v": "b8ebe6aac7a7c8e23f2b23725da11434"
+                    },
+                    {
+                        "k": "1073",
+                        "v": "87c9bcab7aef8fe63d6a21a565cb146e"
+                    },
+                    {
+                        "k": "1074",
+                        "v": "2022fd3839f2ef789343f67c77c68abf"
+                    },
+                    {
+                        "k": "1075",
+                        "v": "5bad0ef7b5734d9bbf5d89d64d79a633"
+                    },
+                    {
+                        "k": "1076",
+                        "v": "8f32330cccce041d1d61e2c48eb584b9"
+                    },
+                    {
+                        "k": "1078",
+                        "v": "aecb8f7660135c1d88f8046e90598c31"
+                    },
+                    {
+                        "k": "1079",
+                        "v": "c684b63d9aecacb4f8e6c72116a06e1d"
+                    },
+                    {
+                        "k": "1080",
+                        "v": "324d936bf1b61fe7a9ad8efc0bd63807"
+                    },
+                    {
+                        "k": "26156",
+                        "v": "74b41097757b33567d33b5e88d815edf"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2022-02-16T10:01:13",
+                        "name": "Public",
+                        "hash": "f12228c39ba8c1e9fa91a6a5a83dcc3d",
+                        "children": [
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2022-02-16T10:01:14",
+                                "name": "Materials",
+                                "hash": "fe133db37eb2394eca45f7b150dd28d8",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-02-16T10:01:06",
+                                        "name": "BackgroundMat.lsmat",
+                                        "hash": "86f163591244471597eb819eaf6b64e7",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-02-16T10:01:06",
+                                        "name": "TileMat.lsmat",
+                                        "hash": "7e55521077e967e2fd56040b55a5ffeb",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-02-16T10:01:06",
+                                        "name": "FillMat.lsmat",
+                                        "hash": "a99d8f0a6d6a0bb7dee18e98e2b413d4",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-02-16T10:01:06",
+                                        "name": "TileScrollingMat.lsmat",
+                                        "hash": "d8fae21f860546cbe31989fe2583506d",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-02-12T09:16:39",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-02-11T11:18:21",
+                                "name": "positive-social-environment.jpeg",
+                                "hash": "e4921d6a3586efad5884126e42b7498a",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-02-12T14:01:31",
+                                "name": "Behavior-headphones.js",
+                                "hash": "324d936bf1b61fe7a9ad8efc0bd63807",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2022-02-12T14:04:26",
+                                "name": "hyperx",
+                                "hash": "8d50c99f7b7b1fdf4160637a684f0786",
+                                "children": [
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2022-02-12T14:04:26",
+                                        "name": "Materials",
+                                        "hash": "90703b264f70c6d12424eefb67c2117d",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-02-12T14:04:16",
+                                                "name": "wire_177028149.lsmat",
+                                                "hash": "c684b63d9aecacb4f8e6c72116a06e1d",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-02-12T14:04:16",
+                                                "name": "wire_088144225.lsmat",
+                                                "hash": "aecb8f7660135c1d88f8046e90598c31",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-02-12T14:04:14",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2022-02-12T14:04:26",
+                                        "name": "Meshes",
+                                        "hash": "9ad2b7fca4f481ad2b2937b1c26db6f1",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-02-12T14:04:12",
+                                                "name": "Cylinder008.mesh",
+                                                "hash": "8f32330cccce041d1d61e2c48eb584b9",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-02-12T14:04:12",
+                                                "name": "Box004.mesh",
+                                                "hash": "0f09a61a4b39cae43121930a5db7652e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-02-12T14:04:12",
+                                                "name": "Cylinder004.mesh",
+                                                "hash": "c072a0a43bcc75191a46f0fc1b63110c",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-02-12T14:04:12",
+                                                "name": "Cylinder005.mesh",
+                                                "hash": "87c9bcab7aef8fe63d6a21a565cb146e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-02-12T14:04:12",
+                                                "name": "Box002.mesh",
+                                                "hash": "6dab03e7cfd280815843078baae37861",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-02-12T14:04:12",
+                                                "name": "Box003.mesh",
+                                                "hash": "319e484a37ff6d1ec64c624e68e6aa58",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-02-12T14:04:12",
+                                                "name": "cover.mesh",
+                                                "hash": "a4f228c4f39e8c51b0d3bb77a1253f60",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-02-12T14:04:12",
+                                                "name": "Arc001.mesh",
+                                                "hash": "3fc2ea88d89ad8e4506518bb37300332",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-02-12T14:04:12",
+                                                "name": "Arc002.mesh",
+                                                "hash": "1dc357137d1e2c1f5f7c803505ebb795",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-02-12T14:04:12",
+                                                "name": "Object001.mesh",
+                                                "hash": "8500589b0b672050362653613754f482",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-02-12T14:04:12",
+                                                "name": "Arc003.mesh",
+                                                "hash": "cb574beac63ffe8117b6a80d9ff50174",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-02-12T14:04:12",
+                                                "name": "Box001.mesh",
+                                                "hash": "6f24b44fd5fc6f6abd3c049ca79cef5e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-02-12T14:04:12",
+                                                "name": "cover001.mesh",
+                                                "hash": "b8ebe6aac7a7c8e23f2b23725da11434",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-02-12T14:04:12",
+                                                "name": "Cylinder001.mesh",
+                                                "hash": "895eb28a567e697a645fb36af3d97fd6",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-02-12T14:04:12",
+                                                "name": "Cylinder006.mesh",
+                                                "hash": "2022fd3839f2ef789343f67c77c68abf",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-02-12T14:04:12",
+                                                "name": "Cylinder007.mesh",
+                                                "hash": "5bad0ef7b5734d9bbf5d89d64d79a633",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-02-12T14:04:12",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-02-12T14:04:12",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2022-02-12T12:57:17",
+                                "name": "Example Textures [REMOVE_ME]",
+                                "hash": "b4734108106f51cef67a093552a28e9f",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-02-12T09:16:39",
+                                        "name": "space_background.pvr",
+                                        "hash": "e021d351dfb8ee91977d74e7e4f06083",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-02-12T09:16:39",
+                                        "name": "old_paper_post_effect.png",
+                                        "hash": "3acd9c68c33b25e370568c8e3ca488c7",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-02-12T09:16:39",
+                                        "name": "heart.pvr",
+                                        "hash": "b9d0f28c720d23d0ab030bfbe064748b",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-02-12T09:16:39",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2022-02-12T12:57:17",
+                                "name": "Default Textures",
+                                "hash": "6edde4d2d7f543a168e1e51820fd0e39",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-02-12T09:16:39",
+                                        "name": "empty.png",
+                                        "hash": "33a67d34b6807e8d7cbd43a3d1930f5e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-02-12T09:16:39",
+                                        "name": "MaterialParams.png",
+                                        "hash": "af2715bddfbca2d4e72f470d285c5010",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-02-12T09:16:39",
+                                        "name": "Base.png",
+                                        "hash": "cb607d7b25a160872c49fb4d2635cc33",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-02-12T09:16:39",
+                                        "name": "Normal.png",
+                                        "hash": "8a0173d0b987e1abfebd4ef9e3304c0b",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-02-12T09:16:39",
+                                        "name": "echopark.hdr",
+                                        "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-02-12T09:16:39",
+                                        "name": "white.png",
+                                        "hash": "960a06e2a80d46091b8215f96b633951",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-02-12T09:16:39",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2022-02-12T12:57:17",
+                                "name": "Scripts",
+                                "hash": "0170383a992c973d8f9830db68848629",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-02-12T09:16:39",
+                                        "name": "SegmentationController.js",
+                                        "hash": "96d4135410b676c791b6880e2bb98e8d",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-02-12T09:16:39",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-02-11T11:15:33",
+                                "name": "negative-social-environment.jpeg",
+                                "hash": "a41f0dcf14f071f197922abca324b488",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-02-14T14:21:50",
+                                "name": "blueheadphones.gif",
+                                "hash": "74b41097757b33567d33b5e88d815edf",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-02-12T09:16:39",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "hidden": "false",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Example Textures [REMOVE_ME]",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "1",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "space_background",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "76",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1536692380004191:12977",
+                                "fileId": "5",
+                                "originalId": "47",
+                                "publicId": "2",
+                                "source": "",
+                                "additional": {
+                                    "originHash": "e021d351dfb8ee91977d74e7e4f06083"
+                                }
+                            },
+                            {
+                                "name": "heart",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "93",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1536694566851597:18126",
+                                "fileId": "10",
+                                "originalId": "48",
+                                "publicId": "4",
+                                "source": "",
+                                "additional": {
+                                    "originHash": "b9d0f28c720d23d0ab030bfbe064748b"
+                                }
+                            },
+                            {
+                                "name": "old_paper_post_effect",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "161",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1564444797948882:5329",
+                                "fileId": "20",
+                                "originalId": "49",
+                                "publicId": "21",
+                                "source": "",
+                                "additional": {
+                                    "originHash": "3acd9c68c33b25e370568c8e3ca488c7"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Materials",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "5",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "TileMat",
+                                "type": "2",
+                                "subtype": "1",
+                                "resourceId": "165",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1610745629794001:56851",
+                                "fileId": "38",
+                                "originalId": "39",
+                                "publicId": "968",
+                                "source": "",
+                                "additional": {
+                                    "isUnpackedInPublic": "false"
+                                }
+                            },
+                            {
+                                "name": "TileScrollingMat",
+                                "type": "2",
+                                "subtype": "1",
+                                "resourceId": "166",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1610746417633087:154258",
+                                "fileId": "41",
+                                "originalId": "42",
+                                "publicId": "969",
+                                "source": "",
+                                "additional": {
+                                    "isUnpackedInPublic": "false"
+                                }
+                            },
+                            {
+                                "name": "FillMat",
+                                "type": "2",
+                                "subtype": "1",
+                                "resourceId": "167",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1610747696110523:313159",
+                                "fileId": "43",
+                                "originalId": "44",
+                                "publicId": "970",
+                                "source": "",
+                                "additional": {
+                                    "isUnpackedInPublic": "false"
+                                }
+                            },
+                            {
+                                "name": "BackgroundMat",
+                                "type": "2",
+                                "subtype": "1",
+                                "resourceId": "168",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1610747944404420:344587",
+                                "fileId": "45",
+                                "originalId": "46",
+                                "publicId": "971",
+                                "source": "",
+                                "additional": {
+                                    "isUnpackedInPublic": "false"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Default Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "10",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Device Camera Texture",
+                                "type": "1",
+                                "subtype": "3",
+                                "resourceId": "2",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "2:2",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Render Target",
+                                "type": "1",
+                                "subtype": "1",
+                                "resourceId": "17",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1534543033794497:2027",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "empty",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "30",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1534548413451520:38273",
+                                "fileId": "4",
+                                "originalId": "50",
+                                "publicId": "13",
+                                "source": "",
+                                "additional": {
+                                    "originHash": "33a67d34b6807e8d7cbd43a3d1930f5e"
+                                }
+                            },
+                            {
+                                "name": "Base",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "81",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1536693201317919:71139",
+                                "fileId": "7",
+                                "originalId": "51",
+                                "publicId": "14",
+                                "source": "",
+                                "additional": {
+                                    "originHash": "cb607d7b25a160872c49fb4d2635cc33"
+                                }
+                            },
+                            {
+                                "name": "MaterialParams",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "82",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1536693201320484:71151",
+                                "fileId": "8",
+                                "originalId": "52",
+                                "publicId": "15",
+                                "source": "",
+                                "additional": {
+                                    "originHash": "af2715bddfbca2d4e72f470d285c5010"
+                                }
+                            },
+                            {
+                                "name": "Normal",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "83",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1536693201323863:71163",
+                                "fileId": "9",
+                                "originalId": "53",
+                                "publicId": "16",
+                                "source": "",
+                                "additional": {
+                                    "originHash": "8a0173d0b987e1abfebd4ef9e3304c0b"
+                                }
+                            },
+                            {
+                                "name": "white",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "132",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1536866643977081:319832",
+                                "fileId": "11",
+                                "originalId": "54",
+                                "publicId": "17",
+                                "source": "",
+                                "additional": {
+                                    "originHash": "960a06e2a80d46091b8215f96b633951"
+                                }
+                            },
+                            {
+                                "name": "echopark",
+                                "type": "9",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "2",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "34",
+                                "originalId": "18446744073709551615",
+                                "publicId": "645",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Diff",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "163",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1588129293824991:745028",
+                                        "fileId": "30",
+                                        "originalId": "31",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Specular",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "164",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1588129293839369:745035",
+                                        "fileId": "32",
+                                        "originalId": "33",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Scripts",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "SegmentationController",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "22",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1534543284768020:20801",
+                                "fileId": "3",
+                                "originalId": "18446744073709551615",
+                                "publicId": "19",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Segmentation Texture [EDIT_ME]",
+                        "type": "1",
+                        "subtype": "14",
+                        "resourceId": "162",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1571785356605059:504223",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Physics Root World Settings",
+                        "type": "36",
+                        "subtype": "1",
+                        "resourceId": "169",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "8675309:9035768",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "negative-social-environment",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "170",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1644677717022121:1617700",
+                        "fileId": "55",
+                        "originalId": "56",
+                        "publicId": "1015",
+                        "source": "\/Users\/saadafm\/Desktop\/negative-social-environment.jpeg",
+                        "additional": {
+                            "originHash": "a41f0dcf14f071f197922abca324b488"
+                        }
+                    },
+                    {
+                        "name": "positive-social-environment",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "172",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1644678737895487:1805808",
+                        "fileId": "60",
+                        "originalId": "61",
+                        "publicId": "1017",
+                        "source": "\/Users\/saadafm\/Desktop\/positive-social-environment.jpeg",
+                        "additional": {
+                            "originHash": "e4921d6a3586efad5884126e42b7498a"
+                        }
+                    },
+                    {
+                        "name": "hyperx",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "1059",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Meshes",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "1060",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Cylinder001",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "389",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1644692652683130:79038",
+                                        "fileId": "129",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "1061",
+                                        "source": "\/Users\/saadafm\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioGMnqSMrbPjoX\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": {
+                                            "info": {
+                                                "vertexAttribs": [
+                                                    {
+                                                        "semantic": "position",
+                                                        "format": "9",
+                                                        "canBeDisabled": "false"
+                                                    },
+                                                    {
+                                                        "semantic": "normal",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "tangent",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "texture0",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    }
+                                                ],
+                                                "hasBlendShapes": "false",
+                                                "hasSkinBones": "false"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "cover",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "390",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1644692652821121:79057",
+                                        "fileId": "131",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "1062",
+                                        "source": "\/Users\/saadafm\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioGMnqSMrbPjoX\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": {
+                                            "info": {
+                                                "vertexAttribs": [
+                                                    {
+                                                        "semantic": "position",
+                                                        "format": "9",
+                                                        "canBeDisabled": "false"
+                                                    },
+                                                    {
+                                                        "semantic": "normal",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "tangent",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "texture0",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    }
+                                                ],
+                                                "hasBlendShapes": "false",
+                                                "hasSkinBones": "false"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "Box001",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "391",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1644692652967133:79076",
+                                        "fileId": "133",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "1063",
+                                        "source": "\/Users\/saadafm\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioGMnqSMrbPjoX\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": {
+                                            "info": {
+                                                "vertexAttribs": [
+                                                    {
+                                                        "semantic": "position",
+                                                        "format": "9",
+                                                        "canBeDisabled": "false"
+                                                    },
+                                                    {
+                                                        "semantic": "normal",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "tangent",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "texture0",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    }
+                                                ],
+                                                "hasBlendShapes": "false",
+                                                "hasSkinBones": "false"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "Box002",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "392",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1644692653117048:79095",
+                                        "fileId": "135",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "1064",
+                                        "source": "\/Users\/saadafm\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioGMnqSMrbPjoX\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": {
+                                            "info": {
+                                                "vertexAttribs": [
+                                                    {
+                                                        "semantic": "position",
+                                                        "format": "9",
+                                                        "canBeDisabled": "false"
+                                                    },
+                                                    {
+                                                        "semantic": "normal",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "tangent",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "texture0",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    }
+                                                ],
+                                                "hasBlendShapes": "false",
+                                                "hasSkinBones": "false"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "Arc001",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "393",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1644692653255446:79114",
+                                        "fileId": "137",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "1065",
+                                        "source": "\/Users\/saadafm\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioGMnqSMrbPjoX\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": {
+                                            "info": {
+                                                "vertexAttribs": [
+                                                    {
+                                                        "semantic": "position",
+                                                        "format": "9",
+                                                        "canBeDisabled": "false"
+                                                    },
+                                                    {
+                                                        "semantic": "normal",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "tangent",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "texture0",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    }
+                                                ],
+                                                "hasBlendShapes": "false",
+                                                "hasSkinBones": "false"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "Arc002",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "394",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1644692653414250:79133",
+                                        "fileId": "139",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "1066",
+                                        "source": "\/Users\/saadafm\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioGMnqSMrbPjoX\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": {
+                                            "info": {
+                                                "vertexAttribs": [
+                                                    {
+                                                        "semantic": "position",
+                                                        "format": "9",
+                                                        "canBeDisabled": "false"
+                                                    },
+                                                    {
+                                                        "semantic": "normal",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "tangent",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "texture0",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    }
+                                                ],
+                                                "hasBlendShapes": "false",
+                                                "hasSkinBones": "false"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "Object001",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "395",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1644692653568943:79152",
+                                        "fileId": "141",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "1067",
+                                        "source": "\/Users\/saadafm\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioGMnqSMrbPjoX\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": {
+                                            "info": {
+                                                "vertexAttribs": [
+                                                    {
+                                                        "semantic": "position",
+                                                        "format": "9",
+                                                        "canBeDisabled": "false"
+                                                    },
+                                                    {
+                                                        "semantic": "normal",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "tangent",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "texture0",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    }
+                                                ],
+                                                "hasBlendShapes": "false",
+                                                "hasSkinBones": "false"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "Arc003",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "396",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1644692653751733:79171",
+                                        "fileId": "143",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "1068",
+                                        "source": "\/Users\/saadafm\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioGMnqSMrbPjoX\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": {
+                                            "info": {
+                                                "vertexAttribs": [
+                                                    {
+                                                        "semantic": "position",
+                                                        "format": "9",
+                                                        "canBeDisabled": "false"
+                                                    },
+                                                    {
+                                                        "semantic": "normal",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "tangent",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "texture0",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    }
+                                                ],
+                                                "hasBlendShapes": "false",
+                                                "hasSkinBones": "false"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "Box003",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "397",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1644692653863102:79190",
+                                        "fileId": "145",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "1069",
+                                        "source": "\/Users\/saadafm\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioGMnqSMrbPjoX\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": {
+                                            "info": {
+                                                "vertexAttribs": [
+                                                    {
+                                                        "semantic": "position",
+                                                        "format": "9",
+                                                        "canBeDisabled": "false"
+                                                    },
+                                                    {
+                                                        "semantic": "normal",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "tangent",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "texture0",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    }
+                                                ],
+                                                "hasBlendShapes": "false",
+                                                "hasSkinBones": "false"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "Box004",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "398",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1644692653948831:79209",
+                                        "fileId": "147",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "1070",
+                                        "source": "\/Users\/saadafm\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioGMnqSMrbPjoX\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": {
+                                            "info": {
+                                                "vertexAttribs": [
+                                                    {
+                                                        "semantic": "position",
+                                                        "format": "9",
+                                                        "canBeDisabled": "false"
+                                                    },
+                                                    {
+                                                        "semantic": "normal",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "tangent",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "texture0",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    }
+                                                ],
+                                                "hasBlendShapes": "false",
+                                                "hasSkinBones": "false"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "Cylinder004",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "399",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1644692654037549:79228",
+                                        "fileId": "149",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "1071",
+                                        "source": "\/Users\/saadafm\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioGMnqSMrbPjoX\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": {
+                                            "info": {
+                                                "vertexAttribs": [
+                                                    {
+                                                        "semantic": "position",
+                                                        "format": "9",
+                                                        "canBeDisabled": "false"
+                                                    },
+                                                    {
+                                                        "semantic": "normal",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "tangent",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "texture0",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    }
+                                                ],
+                                                "hasBlendShapes": "false",
+                                                "hasSkinBones": "false"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "cover001",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "400",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1644692654169731:79247",
+                                        "fileId": "151",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "1072",
+                                        "source": "\/Users\/saadafm\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioGMnqSMrbPjoX\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": {
+                                            "info": {
+                                                "vertexAttribs": [
+                                                    {
+                                                        "semantic": "position",
+                                                        "format": "9",
+                                                        "canBeDisabled": "false"
+                                                    },
+                                                    {
+                                                        "semantic": "normal",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "tangent",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "texture0",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    }
+                                                ],
+                                                "hasBlendShapes": "false",
+                                                "hasSkinBones": "false"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "Cylinder005",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "401",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1644692654315935:79266",
+                                        "fileId": "153",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "1073",
+                                        "source": "\/Users\/saadafm\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioGMnqSMrbPjoX\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": {
+                                            "info": {
+                                                "vertexAttribs": [
+                                                    {
+                                                        "semantic": "position",
+                                                        "format": "9",
+                                                        "canBeDisabled": "false"
+                                                    },
+                                                    {
+                                                        "semantic": "normal",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "tangent",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "texture0",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    }
+                                                ],
+                                                "hasBlendShapes": "false",
+                                                "hasSkinBones": "false"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "Cylinder006",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "402",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1644692654409966:79285",
+                                        "fileId": "155",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "1074",
+                                        "source": "\/Users\/saadafm\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioGMnqSMrbPjoX\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": {
+                                            "info": {
+                                                "vertexAttribs": [
+                                                    {
+                                                        "semantic": "position",
+                                                        "format": "9",
+                                                        "canBeDisabled": "false"
+                                                    },
+                                                    {
+                                                        "semantic": "normal",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "tangent",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "texture0",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    }
+                                                ],
+                                                "hasBlendShapes": "false",
+                                                "hasSkinBones": "false"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "Cylinder007",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "403",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1644692654510132:79304",
+                                        "fileId": "157",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "1075",
+                                        "source": "\/Users\/saadafm\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioGMnqSMrbPjoX\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": {
+                                            "info": {
+                                                "vertexAttribs": [
+                                                    {
+                                                        "semantic": "position",
+                                                        "format": "9",
+                                                        "canBeDisabled": "false"
+                                                    },
+                                                    {
+                                                        "semantic": "normal",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "tangent",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "texture0",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    }
+                                                ],
+                                                "hasBlendShapes": "false",
+                                                "hasSkinBones": "false"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "Cylinder008",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "404",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1644692654592489:79323",
+                                        "fileId": "159",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "1076",
+                                        "source": "\/Users\/saadafm\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioGMnqSMrbPjoX\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": {
+                                            "info": {
+                                                "vertexAttribs": [
+                                                    {
+                                                        "semantic": "position",
+                                                        "format": "9",
+                                                        "canBeDisabled": "false"
+                                                    },
+                                                    {
+                                                        "semantic": "normal",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "tangent",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "texture0",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    }
+                                                ],
+                                                "hasBlendShapes": "false",
+                                                "hasSkinBones": "false"
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Materials",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "1077",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "wire_088144225",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "405",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1644692654648964:79340",
+                                        "fileId": "161",
+                                        "originalId": "162",
+                                        "publicId": "1078",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "wire_177028149",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "406",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1644692654776804:79357",
+                                        "fileId": "163",
+                                        "originalId": "164",
+                                        "publicId": "1079",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Behavior-headphones",
+                        "type": "4",
+                        "subtype": "0",
+                        "resourceId": "171",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1644678151699098:1746805",
+                        "fileId": "59",
+                        "originalId": "18446744073709551615",
+                        "publicId": "1080",
+                        "source": "\/Users\/saadafm\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudiocPqxEEXuUnCZ\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                        "additional": ""
+                    },
+                    {
+                        "name": "blueheadphones",
+                        "type": "1",
+                        "subtype": "5",
+                        "resourceId": "407",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1644867495133251:336819",
+                        "fileId": "165",
+                        "originalId": "166",
+                        "publicId": "26156",
+                        "source": "\/Users\/saadafm\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioPCHKPgKQgqqk\/converted_gif.webp",
+                        "additional": ""
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": ""
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": "",
+            "26": "",
+            "27": "",
+            "28": "",
+            "29": "",
+            "30": "",
+            "31": "",
+            "32": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        },
+        "Compression::IController": {
+            "new_compression_info": [
+                {
+                    "k": "1644677717022121:1617700",
+                    "v": {
+                        "infos": {
+                            "originalSize": "300718",
+                            "compressedSize": "233402",
+                            "originalRAM": "1607472",
+                            "compressedRAM": "1607472",
+                            "extension": "jpeg",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "3",
+                                "type": "0",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "57",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "a41f0dcf14f071f197922abca324b488",
+                                    "settings_hash": "3072"
+                                },
+                                "v": "58"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1644678737895487:1805808",
+                    "v": {
+                        "infos": {
+                            "originalSize": "89979",
+                            "compressedSize": "89979",
+                            "originalRAM": "1327104",
+                            "compressedRAM": "1327104",
+                            "extension": "jpeg",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "3",
+                                "type": "0",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "62",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "e4921d6a3586efad5884126e42b7498a",
+                                    "settings_hash": "3072"
+                                },
+                                "v": "63"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1644692652683130:79038",
+                    "v": {
+                        "infos": {
+                            "originalSize": "106127",
+                            "compressedSize": "106127",
+                            "originalRAM": "214272",
+                            "compressedRAM": "214272",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false",
+                                    "hasSkinBones": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "genericBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "130",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1644692652821121:79057",
+                    "v": {
+                        "infos": {
+                            "originalSize": "136823",
+                            "compressedSize": "136823",
+                            "originalRAM": "305040",
+                            "compressedRAM": "305040",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false",
+                                    "hasSkinBones": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "genericBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "132",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1644692652967133:79076",
+                    "v": {
+                        "infos": {
+                            "originalSize": "45183",
+                            "compressedSize": "45183",
+                            "originalRAM": "78624",
+                            "compressedRAM": "78624",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false",
+                                    "hasSkinBones": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "genericBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "134",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1644692653117048:79095",
+                    "v": {
+                        "infos": {
+                            "originalSize": "45084",
+                            "compressedSize": "45084",
+                            "originalRAM": "78624",
+                            "compressedRAM": "78624",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false",
+                                    "hasSkinBones": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "genericBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "136",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1644692653255446:79114",
+                    "v": {
+                        "infos": {
+                            "originalSize": "30424",
+                            "compressedSize": "30424",
+                            "originalRAM": "60096",
+                            "compressedRAM": "60096",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false",
+                                    "hasSkinBones": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "genericBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "138",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1644692653414250:79133",
+                    "v": {
+                        "infos": {
+                            "originalSize": "37942",
+                            "compressedSize": "37942",
+                            "originalRAM": "99456",
+                            "compressedRAM": "99456",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false",
+                                    "hasSkinBones": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "genericBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "140",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1644692653568943:79152",
+                    "v": {
+                        "infos": {
+                            "originalSize": "57894",
+                            "compressedSize": "57894",
+                            "originalRAM": "152640",
+                            "compressedRAM": "152640",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false",
+                                    "hasSkinBones": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "genericBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "142",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1644692653751733:79171",
+                    "v": {
+                        "infos": {
+                            "originalSize": "30430",
+                            "compressedSize": "30430",
+                            "originalRAM": "60096",
+                            "compressedRAM": "60096",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false",
+                                    "hasSkinBones": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "genericBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "144",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1644692653863102:79190",
+                    "v": {
+                        "infos": {
+                            "originalSize": "45255",
+                            "compressedSize": "45255",
+                            "originalRAM": "78480",
+                            "compressedRAM": "78480",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false",
+                                    "hasSkinBones": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "genericBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "146",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1644692653948831:79209",
+                    "v": {
+                        "infos": {
+                            "originalSize": "45235",
+                            "compressedSize": "45235",
+                            "originalRAM": "78480",
+                            "compressedRAM": "78480",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false",
+                                    "hasSkinBones": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "genericBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "148",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1644692654037549:79228",
+                    "v": {
+                        "infos": {
+                            "originalSize": "107607",
+                            "compressedSize": "107607",
+                            "originalRAM": "218016",
+                            "compressedRAM": "218016",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false",
+                                    "hasSkinBones": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "genericBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "150",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1644692654169731:79247",
+                    "v": {
+                        "infos": {
+                            "originalSize": "137558",
+                            "compressedSize": "137558",
+                            "originalRAM": "305040",
+                            "compressedRAM": "305040",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false",
+                                    "hasSkinBones": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "genericBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "152",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1644692654315935:79266",
+                    "v": {
+                        "infos": {
+                            "originalSize": "11499",
+                            "compressedSize": "11499",
+                            "originalRAM": "33036",
+                            "compressedRAM": "33036",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false",
+                                    "hasSkinBones": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "genericBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "154",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1644692654409966:79285",
+                    "v": {
+                        "infos": {
+                            "originalSize": "11492",
+                            "compressedSize": "11492",
+                            "originalRAM": "33036",
+                            "compressedRAM": "33036",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false",
+                                    "hasSkinBones": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "genericBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "156",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1644692654510132:79304",
+                    "v": {
+                        "infos": {
+                            "originalSize": "11420",
+                            "compressedSize": "11420",
+                            "originalRAM": "33036",
+                            "compressedRAM": "33036",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false",
+                                    "hasSkinBones": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "genericBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "158",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1644692654592489:79323",
+                    "v": {
+                        "infos": {
+                            "originalSize": "11419",
+                            "compressedSize": "11419",
+                            "originalRAM": "33036",
+                            "compressedRAM": "33036",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false",
+                                    "hasSkinBones": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "genericBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "160",
+                        "compressed_files": ""
+                    }
+                }
+            ]
+        },
+        "AssetLibController": {
+            "itemUidToID": [
+                {
+                    "k": "1644679024497813:1844886",
+                    "v": "15wpoHq4tlqRDD2D00vdpO"
+                }
+            ]
+        }
+    },
+    "templateName": "Segmentation",
+    "templateUrl": "https:\/\/assets.ctfassets.net\/xyb83mibqg29\/3bYYvNDCaRtgprqOgm32Wh\/c5e16a8290cda61e950cffe8811cdadf\/Segmentation.zip"
+}
